@@ -24,7 +24,7 @@ This project showcases my ability to build REST APIs and connect them with a sim
 ## 🏃‍♀️ Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/task-tracker.git
+git clone https://github.com/saralamakkena/task-tracker.git
 
 # Run Spring Boot backend
 cd backend
